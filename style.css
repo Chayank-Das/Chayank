@@ -1,0 +1,169 @@
+body {
+  text-align: center;
+  font-family: 'Cardo', serif;
+}
+
+.intro-view{
+    background-color: #ddf3f5;
+}
+
+h1 {
+  margin: 0;
+  margin-top: 50px;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  color: #2bb2bb;
+}
+.chayank{
+  border-radius: 100px;
+  margin-top: 50px;
+}
+
+.skill{
+  border-radius: 500px;
+  width: 19%;
+  float: left;
+  margin-bottom: 60px
+}
+.skills{
+  width: 50%;
+  margin: 0 auto;
+  text-align:left;
+  line-height:2;
+}
+h2{
+  color: #2bb2bb;
+}
+p {
+  font-size: 20px;
+  margin-top: 0;
+  font-family: 'Cardo', serif;
+  padding-left: 168px;
+}
+
+.mountain {
+  left: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  margin-left: -685px;
+}
+
+.top-cloud {
+  margin-right: -600px;
+}
+
+.skill-row-table{
+padding-left: 114px;
+
+}
+.skill-row-image{
+  border-radius: 100px;
+  width: 25%;
+  float:right;
+  margin-left: -166px;
+}
+
+.skill-row-div2{
+  margin-top: 100px;
+margin-left: 166px;
+}
+
+.footer-link{
+  text-decoration: none;
+  padding: 6px;
+}
+.btn{
+  text-decoration: none;
+  color: black;
+  margin-bottom: 3px;
+}
+.web{
+  font-size: 35px;
+}
+.web-developer{
+  padding-left: 0;
+
+}
+
+.CONTACT{
+  text-decoration: none;
+}
+.touch{
+font-size: 40px;
+margin-top: 3px;
+
+}
+.bottom-container{
+  margin-top: 30px;
+  background-color: #66bfbf;
+  padding-bottom: 1px;
+  border-radius: 40px;
+  padding-top: 6px;
+  width: 1332px;
+  height: 102px;
+}
+.myskills{
+  text-align: center;
+  margin-bottom: 50px;
+  margin-top: 10px;
+  font-size: 70px;
+}
+.playing-guitar{
+  padding-left: 166px;
+}
+.skill-row-text{
+  padding-left: 0;
+margin-right: 150px;
+text-align: right;
+}
+.button{
+  padding-right: 40px;
+  padding-bottom: 15px;
+  padding-left: 40px;
+  padding-top: 15px;
+  border-radius: 45px;
+  background-color: #1dd3bd;
+  font-family:serif;
+}
+
+hr{
+border-style:none;
+border-top: dotted;
+border-color: grey;
+border-width: 5px;
+width: 5%;
+}
+
+.contact-me{
+  padding-top: 30px;
+}
+.gaming-pic{
+  float: left;
+  width: 25%;
+  border-radius: 40px;
+}
+.gaming-heading{
+  padding-left: 189px;
+}
+.gaming-text{
+  padding-left: 190px;
+}
+.skill-row-div3{
+  margin-top: 100px;
+}
+.button:hover{
+
+  background-color:#2bb2bb;
+}
+
+.copyright{
+  padding:inherit;
+  font-size: 13px;
+  color: white;
+}
+.personal{
+  color: white;
+  padding: inherit;
+}
